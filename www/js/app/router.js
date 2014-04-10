@@ -28,14 +28,18 @@ define(function (require) {
             "news-item/:id": "getGenericItem",
             "services": "getGeneric",
             "services-item/:id": "getGenericItem",
-            "portfolio": "getGeneric",
-            "portfolio-item/:id": "getGenericItem",
+            "portfolio-other": "getGeneric",
+            "portfolio-other-item/:id": "getGenericItem",
+            "portfolio-junior": "getGeneric",
+            "portfolio-junior-item/:id": "getGenericItem",
+            "portfolio-senior": "getGeneric",
+            "portfolio-senior-item/:id": "getGenericItem",
             "client-area": "getGeneric",
             "client-area-item/:id": "getGenericItem",
             "team": "getGeneric",
             "team-item/:id": "getGenericItem",
-            "press-room": "getGeneric",
-            "press-room/:id": "getGenericItem",
+            "press-room-news": "getGeneric",
+            "press-room-news/:id": "getGenericItem",
 
             
             /*****In Every Project**************/
